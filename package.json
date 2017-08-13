@@ -7,5 +7,14 @@
     "test": "mocha"
   },
   "author": "Test Author",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "chai": "^4.1.1",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^3.5.0",
+    "mocha-jenkins-reporter": "^0.3.8",
+    "superagent": "^3.5.2",
+    "superagent-promise": "^1.1.0"
+  }
 }
